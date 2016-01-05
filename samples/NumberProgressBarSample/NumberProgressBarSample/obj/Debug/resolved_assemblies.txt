@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\NumberProgressBarSample.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\Mono.Android.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\mscorlib.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\NumberProgressBar.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\System.Core.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\System.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\System.Xml.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\Xamarin.Android.Support.v4.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\System.Runtime.Serialization.dll
+C:\Users\Administrator\Desktop\NumberProgressBar-1.2.0.0\samples\NumberProgressBarSample\NumberProgressBarSample\obj\Debug\assemblies\System.ServiceModel.Internals.dll
